@@ -46,3 +46,8 @@ Before running the tests make sure you are serving the app via `ng serve`.
 ## License
 
 This project is licensed under the MIT License
+
+
+##
+Name: Nagarjuna Reddy Kolli
+ID: 2010149
